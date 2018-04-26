@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "TestRunner": {
+      "commandName": "Project",
+      "commandLineArgs": "\"C:\\Users\\Brian_2\\Documents\\GenericGUITests\\BBCAutomation.csv\" \"Chrome\" \"|\" \"50\" \"https://www.bbc.co.uk/\" \"https://apitest.bbc.co.uk\" \"D:\\Logs\\Testing\\Automation.log\""
+    }
+  }
+}
